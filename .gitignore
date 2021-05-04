@@ -1,8 +1,8 @@
 test_page.php
-system/controllers
-system/classes/ForTraining
-js/select2_test.js
-js/select2.min.js
-js/test_page.js
-css/select2.css
-css/test_page.css
+controllers/
+ForTraining/
+select2_test.js
+select2.min.js
+test_page.js
+select2.css
+test_page.css
